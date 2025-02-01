@@ -2,3 +2,5 @@
 
 Main project in Jonas Schedtmann's Ultimate React Course
 Johnny did the following along to learn about production-level React Development
+
+Project was built with React Query and Supabase
